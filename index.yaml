@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   file-mover:
   - apiVersion: v2
-    created: "2021-12-01T15:42:17.416709412+01:00"
+    created: "2021-12-02T15:03:37.812198638+01:00"
     description: A Helm chart energinet-singularity/file-mover
     digest: a28d0d92ec7ebc2af9b0173b32c693bd248d819489bce89b04a188060e827961
     name: file-mover
@@ -11,7 +11,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2021-12-01T15:42:17.416351835+01:00"
+    created: "2021-12-02T15:03:37.811692982+01:00"
     description: A Helm chart energinet-singularity/file-mover
     digest: ab9b07620028b3dd0a64f00e5c31bcbc7b1974c9e0eb7b212d8f8fa25275110b
     name: file-mover
@@ -20,7 +20,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-01T15:42:17.414650194+01:00"
+    created: "2021-12-02T15:03:37.811331284+01:00"
     description: A Helm chart energinet-singularity/file-mover
     digest: b77c739257aba4c0cb3bf6392e25eed81db46fdce2cf9422248319c5fbcee23a
     name: file-mover
@@ -29,7 +29,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-01T15:42:17.414296608+01:00"
+    created: "2021-12-02T15:03:37.81086024+01:00"
     description: A Helm chart for Kubernetes
     digest: a19d9ee81a1f57c4b594700977583b79c21c328aaf54e5daa9e211f76b12f3bd
     name: file-mover
@@ -38,7 +38,7 @@ entries:
     version: 0.1.0
   forecast-parser:
   - apiVersion: v2
-    created: "2021-12-01T15:42:17.41993787+01:00"
+    created: "2021-12-02T15:03:37.815851111+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -50,7 +50,7 @@ entries:
     - forecast-parser-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2021-12-01T15:42:17.419164773+01:00"
+    created: "2021-12-02T15:03:37.814917405+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -63,7 +63,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-01T15:42:17.418501317+01:00"
+    created: "2021-12-02T15:03:37.813967309+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -76,7 +76,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-01T15:42:17.417809942+01:00"
+    created: "2021-12-02T15:03:37.813110377+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -89,7 +89,7 @@ entries:
     version: 0.1.0
   kafka-scada-parser:
   - apiVersion: v2
-    created: "2021-12-01T15:42:17.421407221+01:00"
+    created: "2021-12-02T15:03:37.817640222+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -103,7 +103,7 @@ entries:
     - kafka-scada-parser-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2021-12-01T15:42:17.420567733+01:00"
+    created: "2021-12-02T15:03:37.816720027+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -118,20 +118,20 @@ entries:
     version: 0.1.0
   scada-parser:
   - apiVersion: v2
-    created: "2021-12-01T15:42:17.422891583+01:00"
+    created: "2021-12-02T15:03:37.820212775+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
       version: 1.0.0
     description: A Helm chart for pushing amps to the DLR algoritme
-    digest: ea24553ecca4143b611bb9f7a9d118a68d46a3d14bf55abd9f6cdeb35cf6d587
+    digest: 6c04560d47442d37394ab21a64bbb0c79dfb937f4cee9212f7822fead481b4dd
     name: scada-parser
     type: application
     urls:
     - scada-parser-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2021-12-01T15:42:17.422137628+01:00"
+    created: "2021-12-02T15:03:37.818851789+01:00"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -143,4 +143,4 @@ entries:
     urls:
     - scada-parser-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-01T15:42:17.413752041+01:00"
+generated: "2021-12-02T15:03:37.81031231+01:00"
