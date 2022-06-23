@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   conductor-data-provider:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.03825786Z"
+    created: "2022-06-23T13:31:51.228452795Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -14,7 +14,7 @@ entries:
     - conductor-data-provider-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.037440728Z"
+    created: "2022-06-23T13:31:51.22772559Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -26,7 +26,7 @@ entries:
     - conductor-data-provider-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.036675598Z"
+    created: "2022-06-23T13:31:51.226975185Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -38,7 +38,7 @@ entries:
     - conductor-data-provider-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.035909268Z"
+    created: "2022-06-23T13:31:51.22619848Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -50,7 +50,7 @@ entries:
     - conductor-data-provider-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.035130437Z"
+    created: "2022-06-23T13:31:51.225438475Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -63,7 +63,7 @@ entries:
     version: 1.0.0
   dlr:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.039809021Z"
+    created: "2022-06-23T13:31:51.230296908Z"
     description: A Helm chart for the Dynamic Line Rating application
     digest: 35eeeac537fa10b65f3f84a0bbbf368d082ec0d5f095960408518fff515aa4e1
     name: dlr
@@ -71,7 +71,7 @@ entries:
     - dlr-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.038877184Z"
+    created: "2022-06-23T13:31:51.229060199Z"
     description: A Helm chart for the Dynamic Line Rating application
     digest: b7f03a6cce1d18d6dc509567e921bca90cdd64fec805237ddb6eed1ddd8e88ca
     name: dlr
@@ -80,7 +80,7 @@ entries:
     version: 1.0.1
   dlr-mrid:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.043021147Z"
+    created: "2022-06-23T13:31:51.234007133Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -92,7 +92,7 @@ entries:
     - dlr-mrid-0.0.14.tgz
     version: 0.0.14
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.041720796Z"
+    created: "2022-06-23T13:31:51.233073727Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -104,7 +104,7 @@ entries:
     - dlr-mrid-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.041007968Z"
+    created: "2022-06-23T13:31:51.232019319Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -116,7 +116,7 @@ entries:
     - dlr-mrid-0.0.12.tgz
     version: 0.0.12
   - apiVersion: 0.0.1
-    created: "2022-06-22T14:07:24.040250738Z"
+    created: "2022-06-23T13:31:51.230709711Z"
     description: A Helm chart for energinet-singularity/dlr-mrid
     digest: 9f47ac2d4bb48d16704b233446086226037d6102593dfa4c57f48fd364d5d093
     name: dlr-mrid
@@ -125,7 +125,7 @@ entries:
     version: 0.0.11
   dlr-parser:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.048947679Z"
+    created: "2022-06-23T13:31:51.238928766Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -139,7 +139,7 @@ entries:
     - dlr-parser-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.048222951Z"
+    created: "2022-06-23T13:31:51.238197961Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -153,7 +153,7 @@ entries:
     - dlr-parser-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.047485122Z"
+    created: "2022-06-23T13:31:51.237460356Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -167,7 +167,7 @@ entries:
     - dlr-parser-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.046719892Z"
+    created: "2022-06-23T13:31:51.236727551Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -181,7 +181,7 @@ entries:
     - dlr-parser-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.045958262Z"
+    created: "2022-06-23T13:31:51.235975846Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -195,7 +195,7 @@ entries:
     - dlr-parser-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.045193132Z"
+    created: "2022-06-23T13:31:51.235252141Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -209,7 +209,7 @@ entries:
     - dlr-parser-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.044491304Z"
+    created: "2022-06-23T13:31:51.234626637Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -224,7 +224,7 @@ entries:
     version: 1.0.2
   file-mover:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.05280743Z"
+    created: "2022-06-23T13:31:51.242881593Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: 8e1ddad46c6d67a3c5dec1f00cb98417a68c414da28b0669bffc55815b27d46d
     name: file-mover
@@ -232,7 +232,7 @@ entries:
     - file-mover-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.052123604Z"
+    created: "2022-06-23T13:31:51.24245669Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: a7813d169421fe218a77dbfa87844703f18719dbae8383ef0417ff2f3a554fb8
     name: file-mover
@@ -240,7 +240,7 @@ entries:
     - file-mover-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.051833692Z"
+    created: "2022-06-23T13:31:51.241971387Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: f0e829b1446d96634cc976d2fbafa6b1df781a6706088251a60524b4e2520292
     name: file-mover
@@ -248,7 +248,7 @@ entries:
     - file-mover-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.051546281Z"
+    created: "2022-06-23T13:31:51.241474183Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: 8173224189dd40ca706e01744200a070802f49b1ca5243e481408ae603ca2d63
     name: file-mover
@@ -256,7 +256,7 @@ entries:
     - file-mover-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.05125857Z"
+    created: "2022-06-23T13:31:51.241196082Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: 66f183764348b61a3139ff9bf97d1d9e7fc2df2f27931d2ce69707d1f1a6f2ef
     name: file-mover
@@ -264,7 +264,7 @@ entries:
     - file-mover-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.050962658Z"
+    created: "2022-06-23T13:31:51.24090948Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: db36f039eec2889c3dbc1be43c6af9a09bf32287261ae69130d173afd0014700
     name: file-mover
@@ -272,7 +272,7 @@ entries:
     - file-mover-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.050673747Z"
+    created: "2022-06-23T13:31:51.240617178Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: 91b0c6bd92f451bbbb8e11938093ba11b80b274db02b6e82641048d0b63c4f25
     name: file-mover
@@ -280,7 +280,7 @@ entries:
     - file-mover-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.050379935Z"
+    created: "2022-06-23T13:31:51.240305076Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: ea7ca03aaacfb854ad08af011347dd4f2efc9822c2cf08ca428f295d2de4feb9
     name: file-mover
@@ -288,7 +288,7 @@ entries:
     - file-mover-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.050076423Z"
+    created: "2022-06-23T13:31:51.240031974Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: a28d0d92ec7ebc2af9b0173b32c693bd248d819489bce89b04a188060e827961
     name: file-mover
@@ -297,7 +297,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2022-06-22T14:07:24.049775612Z"
+    created: "2022-06-23T13:31:51.239751972Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: ab9b07620028b3dd0a64f00e5c31bcbc7b1974c9e0eb7b212d8f8fa25275110b
     name: file-mover
@@ -306,7 +306,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-22T14:07:24.049506601Z"
+    created: "2022-06-23T13:31:51.23948057Z"
     description: A Helm chart energinet-singularity/file-mover
     digest: b77c739257aba4c0cb3bf6392e25eed81db46fdce2cf9422248319c5fbcee23a
     name: file-mover
@@ -315,7 +315,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-22T14:07:24.04923129Z"
+    created: "2022-06-23T13:31:51.239202168Z"
     description: A Helm chart for Kubernetes
     digest: a19d9ee81a1f57c4b594700977583b79c21c328aaf54e5daa9e211f76b12f3bd
     name: file-mover
@@ -324,7 +324,7 @@ entries:
     version: 0.1.0
   forecast-parser:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.063524451Z"
+    created: "2022-06-23T13:31:51.253879567Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -336,7 +336,7 @@ entries:
     - forecast-parser-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.062777121Z"
+    created: "2022-06-23T13:31:51.25275846Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -348,7 +348,7 @@ entries:
     - forecast-parser-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.062023392Z"
+    created: "2022-06-23T13:31:51.252018255Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -360,7 +360,7 @@ entries:
     - forecast-parser-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.061253362Z"
+    created: "2022-06-23T13:31:51.251232149Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -372,7 +372,7 @@ entries:
     - forecast-parser-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.060514933Z"
+    created: "2022-06-23T13:31:51.250470944Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -384,7 +384,7 @@ entries:
     - forecast-parser-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.059754103Z"
+    created: "2022-06-23T13:31:51.249744639Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -396,7 +396,7 @@ entries:
     - forecast-parser-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.059001073Z"
+    created: "2022-06-23T13:31:51.248987434Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -408,7 +408,7 @@ entries:
     - forecast-parser-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.058235743Z"
+    created: "2022-06-23T13:31:51.248226929Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -420,7 +420,7 @@ entries:
     - forecast-parser-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.057458613Z"
+    created: "2022-06-23T13:31:51.247425224Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -432,7 +432,7 @@ entries:
     - forecast-parser-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.056703983Z"
+    created: "2022-06-23T13:31:51.246652618Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -444,7 +444,7 @@ entries:
     - forecast-parser-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.056088759Z"
+    created: "2022-06-23T13:31:51.246013214Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -456,7 +456,7 @@ entries:
     - forecast-parser-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.055469135Z"
+    created: "2022-06-23T13:31:51.24536061Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -469,7 +469,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-22T14:07:24.054808909Z"
+    created: "2022-06-23T13:31:51.244745206Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -482,7 +482,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-22T14:07:24.053716266Z"
+    created: "2022-06-23T13:31:51.2439017Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -495,7 +495,19 @@ entries:
     version: 0.1.0
   gis-provider:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.065850242Z"
+    created: "2022-06-23T13:31:51.257384891Z"
+    dependencies:
+    - name: file-mover
+      repository: https://energinet-singularity.github.io/helm-registry/
+      version: 1.1.2
+    description: A Helm chart for providing GIS geometric coordinates to the DLR algorithm.
+    digest: d443027a27474e8bb1e25d8a661dfb188c6f471857d76ff8f41af70e441dac6c
+    name: gis-provider
+    urls:
+    - gis-provider-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    created: "2022-06-23T13:31:51.256463785Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -507,7 +519,7 @@ entries:
     - gis-provider-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.064720498Z"
+    created: "2022-06-23T13:31:51.255034975Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -520,7 +532,7 @@ entries:
     version: 1.0.0
   kafka-scada-parser:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.068302138Z"
+    created: "2022-06-23T13:31:51.259148903Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -534,7 +546,7 @@ entries:
     - kafka-scada-parser-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.067707215Z"
+    created: "2022-06-23T13:31:51.258548599Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -548,7 +560,7 @@ entries:
     - kafka-scada-parser-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.067046289Z"
+    created: "2022-06-23T13:31:51.257944695Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -563,7 +575,7 @@ entries:
     version: 0.1.0
   noname-script:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.069059168Z"
+    created: "2022-06-23T13:31:51.259901008Z"
     description: A freshly created template-script
     digest: d7369421a72d4e12b0f24d554730ffcd64c6f82167f9bf006c937790c7138257
     name: noname-script
@@ -571,7 +583,7 @@ entries:
     - noname-script-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.068812458Z"
+    created: "2022-06-23T13:31:51.259660106Z"
     description: A freshly created template-script
     digest: 12646c37926259b80e048d775093a27c21090d5c0cf25984ea9f386c67dcb5fb
     name: noname-script
@@ -579,7 +591,7 @@ entries:
     - noname-script-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.068560248Z"
+    created: "2022-06-23T13:31:51.259408505Z"
     description: A freshly created template-script
     digest: a4ffdcff2a8aec253d1b0d6125d6b419d3f87b2e52d98ed1f330af8376f68dcb
     name: noname-script
@@ -588,7 +600,7 @@ entries:
     version: 0.0.2
   scada-parser:
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.075082404Z"
+    created: "2022-06-23T13:31:51.267703661Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -601,7 +613,7 @@ entries:
     - scada-parser-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.074343675Z"
+    created: "2022-06-23T13:31:51.265526946Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -614,7 +626,7 @@ entries:
     - scada-parser-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.073590946Z"
+    created: "2022-06-23T13:31:51.264372238Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -627,7 +639,7 @@ entries:
     - scada-parser-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.072875317Z"
+    created: "2022-06-23T13:31:51.263668634Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -640,7 +652,7 @@ entries:
     - scada-parser-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.072152989Z"
+    created: "2022-06-23T13:31:51.262958029Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -653,7 +665,7 @@ entries:
     - scada-parser-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.07141266Z"
+    created: "2022-06-23T13:31:51.262204024Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -666,7 +678,7 @@ entries:
     - scada-parser-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.070823737Z"
+    created: "2022-06-23T13:31:51.261530219Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -679,7 +691,7 @@ entries:
     - scada-parser-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.070214313Z"
+    created: "2022-06-23T13:31:51.260941315Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -692,7 +704,7 @@ entries:
     - scada-parser-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2022-06-22T14:07:24.069588089Z"
+    created: "2022-06-23T13:31:51.260373611Z"
     dependencies:
     - name: file-mover
       repository: https://energinet-singularity.github.io/helm-registry/
@@ -704,4 +716,4 @@ entries:
     urls:
     - scada-parser-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-22T14:07:24.033902789Z"
+generated: "2022-06-23T13:31:51.224437668Z"
